@@ -5,9 +5,9 @@ date: 2021-06-14
 
 Name: Sean Zhang
  
-Pic: 
+Pic: ![image](https://github.com/szhang120/github-pages-with-jekyll/blob/main/dog.jpg?raw=true)
 
-Social Media:
+Social Media: https://www.instagram.com/szhanggg/
 
 Brag Sheet:
 
