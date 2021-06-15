@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Herro I am Sean Zhang huh
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am a very good computer science student.
